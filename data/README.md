@@ -1,4 +1,4 @@
 # data 
 
-It contais all input data (and metadata) used in the analysis
+It contains all input data (and metadata) used in the analysis
  
