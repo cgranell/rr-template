@@ -9,3 +9,13 @@ This repo is designed to make reproducible research projects easy. It has a basi
  * [R](R/): R scripts with function definitions.
  * [reports](reports/): RMarkdown or Markdown files that document the analysis or report on results. 
  * README.Rmd: the document you are reading.
+ 
+ ## Tips
+ 
+ Use of [HERE](https://github.com/krlmlr/here) package, as described [here](https://github.com/jennybc/here_here).
+ 
+  ```
+ library(here)
+ here()
+ here("data")
+ ```
