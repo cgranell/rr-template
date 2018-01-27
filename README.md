@@ -8,7 +8,8 @@ This repo is designed to make reproducible research projects easy. It has a basi
  * [output](output)/: any type of intermediate or output files (e.g. simulation outputs, processed data, cleaned data).
  * [R](R/): R scripts with function definitions.
  * [reports](reports/): RMarkdown or Markdown files that document the analysis or report on results. 
- * README.Rmd: the document you are reading.
+ * [webapp](webapp/): prototype(s) of Shiny apps. When it goes into production, it should be in a separate repo.
+  * README.Rmd: the document you are reading.
  
  ## Tips
  
