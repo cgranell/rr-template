@@ -1,4 +1,4 @@
-# data 
+# data  
 
-It contains all input data (and metadata) used in the analysis
+It contains any type of intermediate or output files (e.g. simulation outputs, processed data, cleaned data).
  
