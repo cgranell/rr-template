@@ -10,16 +10,8 @@ This repo is designed to make reproducible research projects easy. It has a basi
   * [notes](notes/): keep track of ideas, rationale, concerns, dicussion adn decision abiut the analysis/projects.
   * [doc](doc/): manuscript or scientific article. 
   * [reports](reports/): RMarkdown or Markdown files that document the analysis (e.g. reproducible reports). 
-  * [webapp](webapp/): prototype(s) of Shiny apps. When it goes into production, it should be in a separate repo.
+  * [webapp](webapp/): prototype(s) of Shiny web apps. When it goes into production, it should be in a separate repo.
   * README.Rmd: the document you are reading.
-  * LICENCE: licence file
+  * LICENCE: licence file.
  
- ## Tips
- 
- Use of [HERE](https://github.com/krlmlr/here) package, as described [here](https://github.com/jennybc/here_here).
- 
-```
- library(here)
- here()
- here("data")
-```
+
