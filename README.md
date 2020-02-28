@@ -14,4 +14,3 @@ This repo is designed to make reproducible research projects easy. It has a basi
   * README.Rmd: the document you are reading.
   * LICENCE: licence file.
  
-
