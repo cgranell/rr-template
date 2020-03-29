@@ -12,5 +12,5 @@ This repo is designed to make reproducible research projects easy. It has a basi
   * [reports](reports/): RMarkdown or Markdown files that document analysis (e.g. reproducible reports). 
   * [webapp](webapp/): prototype(s) of Shiny web apps. When it goes into production, it should be in a separate repo.
   * README.Rmd: the document you are reading.
-  * [LICENCE](LICENCE): licence file (see [choose license](https://choosealicense.com/).
+  * [LICENCE](LICENCE): licence file (see [choose license](https://choosealicense.com/)).
  
