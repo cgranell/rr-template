@@ -1,1 +1,1 @@
-# code for exploratory analysis 
+# code for exploratory analysis. Outputs (tables, maps, figures) are stored in `figs` folder  

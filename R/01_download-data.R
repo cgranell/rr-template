@@ -1,1 +1,1 @@
-# code for download locally input data and put into the Data folder 
+# code for downloading locally input datasets into the `data-raw` folder 

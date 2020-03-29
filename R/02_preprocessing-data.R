@@ -1,1 +1,1 @@
-# code for preliminary data prepocessing and cleaning. Cleaned data is put in the output folder
+# code for data prepocessing and cleaning. Cleaned data is stored in the `data` folder
